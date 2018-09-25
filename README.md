@@ -19,3 +19,6 @@ This video gives a concise introduction to Object Orientation. There may be seve
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-object-orientation-overview'>OO Ruby Video: Object Orientation Overview</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Overview</p>
+
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-ruby-video-object-orientation-overview/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-ruby-video-object-orientation-overview/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
